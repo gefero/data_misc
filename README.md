@@ -1,3 +1,3 @@
 # Data Miscelánea
 
-Some functions and code I developed, specially for preprocessing.
+Some functions and code I use... specially for data preprocessing.

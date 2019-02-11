@@ -19,7 +19,8 @@ term2<-function(z,name="",media=T){
 
 
 ## Use expample
+x = cbind(c(1,2,3,4,5,6,7),c(3,1,2,1,2,3,1))
 
 term2(x[,1],"voto",media=T)
-apply(x,2,term,media=F)
+apply(x,2,term2,media=F)
 
